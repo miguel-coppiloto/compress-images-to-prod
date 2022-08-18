@@ -1,0 +1,27 @@
+{
+  "name": "compress-images-to-prod",
+  "version": "1.0.0",
+  "description": "Compresor de imágenes para proyecto Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-coppiloto/compress-images-to-prod.git"
+  },
+  "author": "Miguel Carrasco Q.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-coppiloto/compress-images-to-prod/issues"
+  },
+  "homepage": "https://github.com/miguel-coppiloto/compress-images-to-prod#readme",
+  "devDependencies": {
+    "compress-images": "^2.0.5"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1"
+  }
+}
